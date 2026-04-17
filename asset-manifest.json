@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TaiwanHan.io/static/css/main.f855e6bc.css",
+    "main.js": "/TaiwanHan.io/static/js/main.abe8f8ad.js",
+    "static/js/453.cd4417ee.chunk.js": "/TaiwanHan.io/static/js/453.cd4417ee.chunk.js",
+    "static/media/logo.svg": "/TaiwanHan.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TaiwanHan.io/index.html",
+    "main.f855e6bc.css.map": "/TaiwanHan.io/static/css/main.f855e6bc.css.map",
+    "main.abe8f8ad.js.map": "/TaiwanHan.io/static/js/main.abe8f8ad.js.map",
+    "453.cd4417ee.chunk.js.map": "/TaiwanHan.io/static/js/453.cd4417ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.abe8f8ad.js"
+  ]
+}
