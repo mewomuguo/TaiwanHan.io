@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TaiwanHan.io/static/css/main.87059df7.css",
-    "main.js": "/TaiwanHan.io/static/js/main.79aeb4d4.js",
+    "main.js": "/TaiwanHan.io/static/js/main.4ee6f591.js",
     "static/js/453.cd4417ee.chunk.js": "/TaiwanHan.io/static/js/453.cd4417ee.chunk.js",
     "index.html": "/TaiwanHan.io/index.html",
     "main.87059df7.css.map": "/TaiwanHan.io/static/css/main.87059df7.css.map",
-    "main.79aeb4d4.js.map": "/TaiwanHan.io/static/js/main.79aeb4d4.js.map",
+    "main.4ee6f591.js.map": "/TaiwanHan.io/static/js/main.4ee6f591.js.map",
     "453.cd4417ee.chunk.js.map": "/TaiwanHan.io/static/js/453.cd4417ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87059df7.css",
-    "static/js/main.79aeb4d4.js"
+    "static/js/main.4ee6f591.js"
   ]
 }
